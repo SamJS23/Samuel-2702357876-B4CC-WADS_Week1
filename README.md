@@ -1,1 +1,3 @@
-# Samuel-2702357876-B4CC-WADS_Week1
+Name: Samuel 
+Class: B4CC
+Student ID: 2702357876
